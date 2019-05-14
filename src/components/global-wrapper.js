@@ -26,8 +26,8 @@ class GlobalWrapper extends React.Component {
       <Fragment>
         <Helmet>
           <html lang="en" />
-          <title>Gabriel Adorf</title>
-          <meta name="description" content="Gabriel Adorf's projects" />
+          <title>Greyson Yant</title>
+          <meta name="description" content="Greyson Yant's projects" />
           <meta
             name="keywords"
             content="design, ux, ui, product, graphic, health, climbing, app, interface, experience, festival, techno, code"
@@ -36,10 +36,10 @@ class GlobalWrapper extends React.Component {
             property="og:image"
             content="https://www.gabrieladorf.com/static/kellerkindCover-14f87246d1614ff1cf339940bdc58186.jpg"
           />
-          <meta property="og:description" content="Gabriel Adorf's projects" />
+          <meta property="og:description" content="Greyson Yant's projects" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://gabrieladorf.com" />
-          <meta property="og:title" content="Gabriel Adorf" />
+          <meta property="og:title" content="Greyson Yant" />
 
           <link
             rel="apple-touch-icon"

@@ -8,46 +8,40 @@ import Footer from 'components/footer'
 function Imprint() {
   return (
     <GlobalWrapper>
-      <Header title="Imprint / Impressum" />
+      <Header title="Imprint / Disclaimer" />
       <ContentWrapper>
-        <h2>Angaben gemäß § 5 TMG</h2>
+        <h2>A few legal notes</h2>
         <p>
-          Gabriel Adorf
+        </p>
+        <h3>Contact</h3>
+        <p>
+        Greyson Yant
           <br />
-          Isländische Str. 7<br />
-          10439 Berlin
-        </p>
-        <h3>Kontakt</h3>
-        <p>
-          Telefon: +49 1573 7654 210
+          Eugene, Oregon, USA
           <br />
-          E-Mail: gabriel.adorf[ääät]gmail.com
+          E-Mail: greyson.yant[@]gmail.com
         </p>
-        <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
+        <h3>Responsible for site content</h3>
         <p>
-          Gabriel Adorf
+          Greyson Yant
           <br />
-          <i>Quelle: Impressumgenerator von www.e-recht24.de</i>
+          <i>Legal notes inspired by: "Impressum" generator via www.e-recht24.de</i>
         </p>
-        <h2>Haftungsausschluss</h2>
-        <h3>Haftung für Inhalte</h3>
+        <h2>Disclaimer</h2>
+        <h3>Liability for Content</h3>
         <p>
-          Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für
-          die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir
-          jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7
-          Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
-          Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
-          Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
-          gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
-          forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
-          Verpflichtungen zur Entfernung oder Sperrung der Nutzung von
-          Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
-          Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der
-          Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden
-          von entsprechenden Rechtsverletzungen werden wir diese Inhalte
-          umgehend entfernen.
+        The contents of our pages were created with great care. For the 
+        accuracy, completeness and timeliness of the contents, however, we 
+        can not guarantee. As a service provider we are responsible for our
+        own contents on these sites according to the general laws. Accordingly,
+        however, we as a service provider are not obliged to monitor transmitted
+        or stored external information or to investigate circumstances that 
+        indicate illegal activity. Obligations to remove or block the use of 
+        information under general law remain unaffected. However, liability in 
+        this regard is only possible from the moment of knowledge of a 
+        specific infringement.
         </p>
-        <h3>Haftung für Links</h3>
+        <h3>Liability for Links</h3>
         <p>
           Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
           Inhalte wir keinen Einfluss haben. Deshalb können wir für diese

@@ -9,3 +9,6 @@ yarn-error.log
 yarn.lock
 portfolio.code-workspace
 .netlify/
+firebase.json
+.firebaserc
+.firebase/

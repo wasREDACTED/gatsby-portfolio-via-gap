@@ -51,7 +51,7 @@ class Hero extends React.Component {
   render() {
     return (
       <HeroSection>
-        <Spirograph speed={0.012} getGearValues={this.getGearValues} />
+        {/* <Spirograph speed={0.012} getGearValues={this.getGearValues} /> */}
         <Header />
         <Spacer />
         {/* <GearValues>

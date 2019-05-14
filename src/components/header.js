@@ -174,12 +174,12 @@ class Header extends React.Component {
           {this.props.article && (
             <NameLink href="/">
               <NameArticle article={this.props.article}>
-                Gabriel Adorf
+              Greyson Yant
               </NameArticle>
             </NameLink>
           )}
           {!this.props.article && (
-            <Name article={this.props.article}>Gabriel Adorf</Name>
+            <Name article={this.props.article}>Greyson Yant</Name>
           )}
           {!this.props.article && <Role>UI / UX Design</Role>}
         </LogoWrapper>

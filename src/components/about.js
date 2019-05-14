@@ -31,21 +31,23 @@ function About() {
       rightColumn={
         <Fragment>
           <Big>
-            Hi. I'm Gabriel, a UI and UX designer based in&nbsp;Berlin. I bring
-            ideas to life with design and&nbsp;code.
+            Hi. I'm Greyson, a innovator based in&nbsp;Eugene. I explore, nurture, and refine 
+            ideas.
           </Big>
           <p>
-            In my work I strive to optimize the aesthetic value and usability of
+            In my work I practice balancing the natural chaotic harmony of creation
+            with the rigidity and familiarity that enables efficiency.
+            {/* strive to optimize the aesthetic value and usability of
             products without losing sight of the technical challenges and
-            limitations.
+            limitations. */}
           </p>
           <p>
-            Currently I'm designing the future of medical infrastructure at{' '}
-            <Link to="/lifetime">LifeTime</Link>.
+            Currently I'm keeping our teams happy at{' '}
+            <Link to="/lifetime">Twenty Ideas</Link>.
           </p>
           <p style={{ marginBottom: 0 }}>
-            Outside of work I'm passionate about my family, climbing and riding
-            all kinds of boards on concrete, water and snow.
+            Outside of work I'm passionate about my community, cooking, and riding
+            board or bike around the city.
           </p>
         </Fragment>
       }
