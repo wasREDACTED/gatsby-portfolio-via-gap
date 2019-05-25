@@ -27,12 +27,12 @@ const Big = styled.span`
 function About() {
   return (
     <TwoColumns
-      leftColumn={<SectionHeading>About</SectionHeading>}
+      leftColumn={<SectionHeading>Hello</SectionHeading>}
       rightColumn={
         <Fragment>
           <Big>
-            Hi. I'm Greyson, a innovator based in&nbsp;Eugene. I explore, nurture, and refine 
-            ideas.
+            I'm Greyson. I explore, nurture, and refine 
+            ideas. I'm in Eugene Oregon currently.
           </Big>
           <p>
             In my work I practice balancing the natural chaotic harmony of creation
